@@ -21,5 +21,6 @@
   	<module>restapi</module>
   	<module>memcache</module>
   	<module>reactjs</module>
+  	<module>spark</module>
   </modules>
 </project>
