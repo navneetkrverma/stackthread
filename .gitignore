@@ -2,3 +2,20 @@
 /target/
 */.classpath
 
+memcache/.classpath
+kafka/.classpath
+java8/.classpath
+hibernate/.classpath
+flink/.classpath
+elasticsearch/.classpath
+druid/.classpath
+cassandra/.classpath
+storm/.classpath
+spring/.classpath
+spark/.classpath
+restapi/.classpath
+redis/.classpath
+reactjs/.classpath
+multithreading/.classpath
+memcache/.classpath
+cassandra/.classpath
