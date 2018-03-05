@@ -22,5 +22,6 @@
   	<module>memcache</module>
   	<module>reactjs</module>
   	<module>spark</module>
+    <module>shell-script</module>
   </modules>
 </project>
