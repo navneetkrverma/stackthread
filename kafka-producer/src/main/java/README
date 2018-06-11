@@ -1,0 +1,44 @@
+zk is madetory for kafka, without zk, kafka wont work.
+Few basic operations:
+
+navigate to base directory: cd ~/Applications/kafka_2.10-0.10.0.1/
+
+start zookeeper:
+	./bin/zookeeper-server-start.sh ./config/zookeeper.properties
+
+start kafka server:
+	bin/kafka-server-start.sh ./config/server.properties
+
+list all kafka topics:
+	./bin/kafka-topics.sh --zookeeper localhost:2181 --list
+
+create kafka topic:
+	./bin/kafka-topics.sh --zookeeper localhost:2181 --create --topic test2 --replication-factor 1 --partition 3
+
+kafka console consumer: 
+	./bin/kafka-console-consumer.sh --zookeeper localhost:2181 --topic test.topic --from-beginning
+
+kafka console producer:
+	./bin/kafka-console-producer.sh --broker-list localhost:9092 --topic test.topic
+
+// zk specific
+	connect to zk shell:
+		./bin/zookeeper-shell.sh localhost:2181
+	type commands here which you want to see, you can also have separate zk and then call zkCli.sh to login to zk 
+	list broker-ids: 
+		ls /brokers/ids
+	list broker topics:
+		ls /brokers/topics
+	remove broker from zk (znodes-emphemeral nodes)
+		rmr /broker/ids/0
+		rmr /test
+	Ephemeral znodes (flag: e) will be automatically deleted when a session expires or when the client disconnects.
+		create z-nodes:
+			Syntax: create [options] /path /data
+			eg: create -e /my/path "mydata"
+	Sequential znodes guaranty that the znode path will be unique.
+		create sequential nodes:
+			Syntax: create [options] /path /data
+			eg: create -s /my/path "mydata"
+	
+ 
