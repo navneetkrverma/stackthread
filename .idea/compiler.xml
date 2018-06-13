@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cassandra (1)" />
+        <module name="cassandra (2)" />
+        <module name="cassandra (3)" />
+        <module name="design-patterns (1)" />
+        <module name="design-patterns (2)" />
+        <module name="design-patterns (3)" />
+        <module name="druid (1)" />
+        <module name="druid (2)" />
+        <module name="druid (3)" />
+        <module name="elasticsearch (1)" />
+        <module name="elasticsearch (2)" />
+        <module name="elasticsearch (3)" />
+        <module name="flink (1)" />
+        <module name="flink (2)" />
+        <module name="flink (3)" />
+        <module name="hibernate (1)" />
+        <module name="hibernate (2)" />
+        <module name="hibernate (3)" />
+        <module name="java8 (1)" />
+        <module name="java8 (2)" />
+        <module name="java8 (3)" />
+        <module name="kafka (1)" />
+        <module name="kafka (2)" />
+        <module name="kafka (3)" />
+        <module name="memcache (1)" />
+        <module name="memcache (2)" />
+        <module name="memcache (3)" />
+        <module name="multithreading (1)" />
+        <module name="multithreading (2)" />
+        <module name="multithreading (3)" />
+        <module name="reactjs (1)" />
+        <module name="reactjs (2)" />
+        <module name="reactjs (3)" />
+        <module name="redis (1)" />
+        <module name="redis (2)" />
+        <module name="redis (3)" />
+        <module name="restapi (1)" />
+        <module name="restapi (2)" />
+        <module name="restapi (3)" />
+        <module name="restful-ws (1)" />
+        <module name="spark (1)" />
+        <module name="spark (2)" />
+        <module name="spark (3)" />
+        <module name="spring (1)" />
+        <module name="spring (2)" />
+        <module name="spring (3)" />
+        <module name="storm (1)" />
+        <module name="storm (2)" />
+        <module name="storm (3)" />
+      </profile>
+      <profile name="Annotation profile for restful-ws" enabled="true">
+        <sourceOutputDir name="../../../../../generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../../../generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="restful-ws (2)" />
+        <module name="restful-ws (3)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cassandra (1)" target="1.5" />
+      <module name="cassandra (2)" target="1.5" />
+      <module name="cassandra (3)" target="1.5" />
+      <module name="design-patterns (1)" target="1.5" />
+      <module name="design-patterns (2)" target="1.5" />
+      <module name="design-patterns (3)" target="1.5" />
+      <module name="druid (1)" target="1.5" />
+      <module name="druid (2)" target="1.5" />
+      <module name="druid (3)" target="1.5" />
+      <module name="elasticsearch (1)" target="1.5" />
+      <module name="elasticsearch (2)" target="1.5" />
+      <module name="elasticsearch (3)" target="1.5" />
+      <module name="flink (1)" target="1.5" />
+      <module name="flink (2)" target="1.5" />
+      <module name="flink (3)" target="1.5" />
+      <module name="hibernate (1)" target="1.5" />
+      <module name="hibernate (2)" target="1.5" />
+      <module name="hibernate (3)" target="1.5" />
+      <module name="java8 (1)" target="1.5" />
+      <module name="java8 (2)" target="1.5" />
+      <module name="java8 (3)" target="1.5" />
+      <module name="kafka (1)" target="1.5" />
+      <module name="kafka (2)" target="1.5" />
+      <module name="kafka (3)" target="1.5" />
+      <module name="memcache (1)" target="1.5" />
+      <module name="memcache (2)" target="1.5" />
+      <module name="memcache (3)" target="1.5" />
+      <module name="multithreading (1)" target="1.5" />
+      <module name="multithreading (2)" target="1.5" />
+      <module name="multithreading (3)" target="1.5" />
+      <module name="reactjs (1)" target="1.5" />
+      <module name="reactjs (2)" target="1.5" />
+      <module name="reactjs (3)" target="1.5" />
+      <module name="redis (1)" target="1.5" />
+      <module name="redis (2)" target="1.5" />
+      <module name="redis (3)" target="1.5" />
+      <module name="restapi (1)" target="1.5" />
+      <module name="restapi (2)" target="1.5" />
+      <module name="restapi (3)" target="1.5" />
+      <module name="restful-ws (1)" target="1.8" />
+      <module name="restful-ws (2)" target="1.5" />
+      <module name="restful-ws (3)" target="1.8" />
+      <module name="spark (1)" target="1.5" />
+      <module name="spark (2)" target="1.5" />
+      <module name="spark (3)" target="1.5" />
+      <module name="spring (1)" target="1.5" />
+      <module name="spring (2)" target="1.5" />
+      <module name="spring (3)" target="1.5" />
+      <module name="stackthreads" target="1.5" />
+      <module name="storm (1)" target="1.5" />
+      <module name="storm (2)" target="1.5" />
+      <module name="storm (3)" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/druid/target/classes/META-INF/maven/com.stackthreads.druid/druid/pom.xml" />
+        <option value="$PROJECT_DIR$/druid/target/classes/META-INF/maven/com.stackthreads.druid/druid/pom.properties" />
+        <option value="$PROJECT_DIR$/flink/target/classes/META-INF/maven/com.stackthreads.flink/flink/pom.xml" />
+        <option value="$PROJECT_DIR$/flink/target/classes/META-INF/maven/com.stackthreads.flink/flink/pom.properties" />
+        <option value="$PROJECT_DIR$/java8/target/classes/META-INF/maven/com.stackthreads.java8/java8/pom.xml" />
+        <option value="$PROJECT_DIR$/java8/target/classes/META-INF/maven/com.stackthreads.java8/java8/pom.properties" />
+        <option value="$PROJECT_DIR$/kafka/target/classes/META-INF/maven/com.stackthreads.kafka/kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka/target/classes/META-INF/maven/com.stackthreads.kafka/kafka/pom.properties" />
+        <option value="$PROJECT_DIR$/redis/target/classes/META-INF/maven/com.stackthreads.redis/redis/pom.xml" />
+        <option value="$PROJECT_DIR$/redis/target/classes/META-INF/maven/com.stackthreads.redis/redis/pom.properties" />
+        <option value="$PROJECT_DIR$/spark/target/classes/META-INF/maven/com.stackthreads.spark/spark/pom.xml" />
+        <option value="$PROJECT_DIR$/spark/target/classes/META-INF/maven/com.stackthreads.spark/spark/pom.properties" />
+        <option value="$PROJECT_DIR$/storm/target/classes/META-INF/maven/com.stackthreads.storm/storm/pom.xml" />
+        <option value="$PROJECT_DIR$/storm/target/classes/META-INF/maven/com.stackthreads.storm/storm/pom.properties" />
+        <option value="$PROJECT_DIR$/spring/target/classes/META-INF/maven/com.stackthreads.spring/spring/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/target/classes/META-INF/maven/com.stackthreads.spring/spring/pom.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/reactjs/target/classes/META-INF/maven/com.stackthreads.reactjs/reactjs/pom.xml" />
+        <option value="$PROJECT_DIR$/reactjs/target/classes/META-INF/maven/com.stackthreads.reactjs/reactjs/pom.properties" />
+        <option value="$PROJECT_DIR$/restapi/target/classes/META-INF/maven/com.stackthreads.rest/restapi/pom.xml" />
+        <option value="$PROJECT_DIR$/restapi/target/classes/META-INF/maven/com.stackthreads.rest/restapi/pom.properties" />
+        <option value="$PROJECT_DIR$/memcache/target/classes/META-INF/maven/com.stackthreads.memcache/memcache/pom.xml" />
+        <option value="$PROJECT_DIR$/memcache/target/classes/META-INF/maven/com.stackthreads.memcache/memcache/pom.properties" />
+        <option value="$PROJECT_DIR$/cassandra/target/classes/META-INF/maven/com.stackthreads.cassandra/cassandra/pom.xml" />
+        <option value="$PROJECT_DIR$/cassandra/target/classes/META-INF/maven/com.stackthreads.cassandra/cassandra/pom.properties" />
+        <option value="$PROJECT_DIR$/hibernate/target/classes/META-INF/maven/com.stackthreads.hibernate/hibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/hibernate/target/classes/META-INF/maven/com.stackthreads.hibernate/hibernate/pom.properties" />
+        <option value="$PROJECT_DIR$/restful-ws/target/classes/META-INF/maven/com.stackthreads.ws/restful-ws/pom.xml" />
+        <option value="$PROJECT_DIR$/restful-ws/target/classes/META-INF/maven/com.stackthreads.ws/restful-ws/pom.properties" />
+        <option value="$PROJECT_DIR$/restful-ws/pom.xml" />
+        <option value="$PROJECT_DIR$/elasticsearch/target/classes/META-INF/maven/com.stackthreads.es/elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/elasticsearch/target/classes/META-INF/maven/com.stackthreads.es/elasticsearch/pom.properties" />
+        <option value="$PROJECT_DIR$/multithreading/target/classes/META-INF/maven/com.stackthreads.multithreading/multithreading/pom.xml" />
+        <option value="$PROJECT_DIR$/multithreading/target/classes/META-INF/maven/com.stackthreads.multithreading/multithreading/pom.properties" />
+        <option value="$PROJECT_DIR$/design-patterns/target/classes/META-INF/maven/com.stackthreads.design.patterns/design-patterns/pom.xml" />
+        <option value="$PROJECT_DIR$/design-patterns/target/classes/META-INF/maven/com.stackthreads.design.patterns/design-patterns/pom.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

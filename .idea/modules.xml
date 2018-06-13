@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cassandra (1).iml" filepath="$PROJECT_DIR$/cassandra (1).iml" group="stackthreads and modules" />
+      <module fileurl="file://$PROJECT_DIR$/cassandra (2).iml" filepath="$PROJECT_DIR$/cassandra (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/cassandra (3).iml" filepath="$PROJECT_DIR$/cassandra (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns (1).iml" filepath="$PROJECT_DIR$/design-patterns (1).iml" group="stackthreads and modules" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns (2).iml" filepath="$PROJECT_DIR$/design-patterns (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns (3).iml" filepath="$PROJECT_DIR$/design-patterns (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/druid (1).iml" filepath="$PROJECT_DIR$/druid (1).iml" group="stackthreads and modules" />
+      <module fileurl="file://$PROJECT_DIR$/druid (2).iml" filepath="$PROJECT_DIR$/druid (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/druid (3).iml" filepath="$PROJECT_DIR$/druid (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/elasticsearch (1).iml" filepath="$PROJECT_DIR$/elasticsearch (1).iml" group="stackthreads and modules" />
+      <module fileurl="file://$PROJECT_DIR$/elasticsearch (2).iml" filepath="$PROJECT_DIR$/elasticsearch (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/elasticsearch (3).iml" filepath="$PROJECT_DIR$/elasticsearch (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink (1).iml" filepath="$PROJECT_DIR$/flink (1).iml" group="stackthreads and modules" />
+      <module fileurl="file://$PROJECT_DIR$/flink (2).iml" filepath="$PROJECT_DIR$/flink (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink (3).iml" filepath="$PROJECT_DIR$/flink (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate (1).iml" filepath="$PROJECT_DIR$/hibernate (1).iml" group="stackthreads and modules" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate (2).iml" filepath="$PROJECT_DIR$/hibernate (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate (3).iml" filepath="$PROJECT_DIR$/hibernate (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8 (1).iml" filepath="$PROJECT_DIR$/java8 (1).iml" group="stackthreads and modules" />
+      <module fileurl="file://$PROJECT_DIR$/java8 (2).iml" filepath="$PROJECT_DIR$/java8 (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8 (3).iml" filepath="$PROJECT_DIR$/java8 (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka (1).iml" filepath="$PROJECT_DIR$/kafka (1).iml" group="stackthreads and modules" />
+      <module fileurl="file://$PROJECT_DIR$/kafka (2).iml" filepath="$PROJECT_DIR$/kafka (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka (3).iml" filepath="$PROJECT_DIR$/kafka (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/memcache (1).iml" filepath="$PROJECT_DIR$/memcache (1).iml" group="stackthreads and modules" />
+      <module fileurl="file://$PROJECT_DIR$/memcache (2).iml" filepath="$PROJECT_DIR$/memcache (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/memcache (3).iml" filepath="$PROJECT_DIR$/memcache (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/multithreading (1).iml" filepath="$PROJECT_DIR$/multithreading (1).iml" group="stackthreads and modules" />
+      <module fileurl="file://$PROJECT_DIR$/multithreading (2).iml" filepath="$PROJECT_DIR$/multithreading (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/multithreading (3).iml" filepath="$PROJECT_DIR$/multithreading (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/reactjs (1).iml" filepath="$PROJECT_DIR$/reactjs (1).iml" group="stackthreads and modules" />
+      <module fileurl="file://$PROJECT_DIR$/reactjs (2).iml" filepath="$PROJECT_DIR$/reactjs (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/reactjs (3).iml" filepath="$PROJECT_DIR$/reactjs (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis (1).iml" filepath="$PROJECT_DIR$/redis (1).iml" group="stackthreads and modules" />
+      <module fileurl="file://$PROJECT_DIR$/redis (2).iml" filepath="$PROJECT_DIR$/redis (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis (3).iml" filepath="$PROJECT_DIR$/redis (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/restapi (1).iml" filepath="$PROJECT_DIR$/restapi (1).iml" group="stackthreads and modules" />
+      <module fileurl="file://$PROJECT_DIR$/restapi (2).iml" filepath="$PROJECT_DIR$/restapi (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/restapi (3).iml" filepath="$PROJECT_DIR$/restapi (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/restful-ws (1).iml" filepath="$PROJECT_DIR$/restful-ws (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/restful-ws (2).iml" filepath="$PROJECT_DIR$/restful-ws (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/restful-ws (3).iml" filepath="$PROJECT_DIR$/restful-ws (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark (1).iml" filepath="$PROJECT_DIR$/spark (1).iml" group="stackthreads and modules" />
+      <module fileurl="file://$PROJECT_DIR$/spark (2).iml" filepath="$PROJECT_DIR$/spark (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark (3).iml" filepath="$PROJECT_DIR$/spark (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring (1).iml" filepath="$PROJECT_DIR$/spring (1).iml" group="stackthreads and modules" />
+      <module fileurl="file://$PROJECT_DIR$/spring (2).iml" filepath="$PROJECT_DIR$/spring (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring (3).iml" filepath="$PROJECT_DIR$/spring (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/stackthreads.iml" filepath="$PROJECT_DIR$/stackthreads.iml" group="stackthreads and modules" />
+      <module fileurl="file://$PROJECT_DIR$/storm (1).iml" filepath="$PROJECT_DIR$/storm (1).iml" group="stackthreads and modules" />
+      <module fileurl="file://$PROJECT_DIR$/storm (2).iml" filepath="$PROJECT_DIR$/storm (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/storm (3).iml" filepath="$PROJECT_DIR$/storm (3).iml" />
+    </modules>
+  </component>
+</project>
